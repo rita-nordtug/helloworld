@@ -1,0 +1,4 @@
+FROM java
+
+RUN git clone -q https://github.com/docker-in-practice/todo.git
+
